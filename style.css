@@ -20,6 +20,9 @@ h1, h2, h5 {
 .card {
     text-align: center;
 }
+.container mt-5{
+    margin-top: auto;
+}
 
 .lead, .btn-link {
     color: var(--cor-destaque);
