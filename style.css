@@ -11,20 +11,19 @@ body {
     color: var(--cor-principal);
 }
 
-h1, h2, {
+h1, h5 {
     color: var(--cor-secundaria);
     font-weight: 700;
     text-align: center;
 }
 
-h5 {
-    color: var(--cor-secundaria);
-    font-weight: 700;
-}    
-
+h2{
+    text-align: center;
+}
 .card {
     text-align: center;
     width: 100%;
+    align-items: center;
 }
 .modal{
     width: 100%;
