@@ -20,6 +20,9 @@ h1, h5 {
 h2{
     text-align: center;
 }
+.card {
+    text-align: justify;
+}
 
 .lead, .btn-link {
     color: var(--cor-destaque);
